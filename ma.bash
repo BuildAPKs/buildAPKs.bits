@@ -8,6 +8,7 @@ shopt -s nullglob globstar
 . "$RDR"/scripts/bash/shlibs/trap.bash 210 211 212
 cd "$JDR"
 # _AT_ username/repository commit
+_AT_ blaine/cookbook a7cbb6375f4139313709502c43d9e5879c82f08a
 _AT_ codeskraps/ListTemplate b6363e8b55aee26cb6d3d51cccd7f38b0d94b23f
 _AT_ codeskraps/Chronoid 56eee9ffcb7217a69e34cffcc5b336df0306f6e5
 _AT_ han1202012/AndroidPictureViewer e4377ba55a22bc277e0474d9c82e8fd82b3c32a3
