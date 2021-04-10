@@ -25,4 +25,5 @@ _AT_ mdinstuhl/Android_Camera_Demo a1c29301075d4c5042e1d0b87f27515cd9fb700c
 _AT_ mikedg1/bulletproof 428dc143113694f08715ad169764bb4bf0d1124d
 _AT_ phoenix24/camerio 0128d7de1198ba589b40aa3f591c39ff97d10f0b
 _AT_ shakalaca/ScreenNotifier 2bc19e4181d96532e12ca97d534bc0204fdf0ae6
+_AT_ ti3r/sports_tablet c8d904972c577c9811f4199f0692b89d32c87940
 # ma.bash OEF 
