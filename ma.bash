@@ -21,6 +21,7 @@ _AT_ gitaaron/Android-Third-Party-App-Launcher 3120085ea571c17ce003c7f58f9bbf3fd
 _AT_ han1202012/AndroidPictureViewer e4377ba55a22bc277e0474d9c82e8fd82b3c32a3
 _AT_ han1202012/CircleProcess f43ee514c211c39ca5e4720ded80e557197a759e
 _AT_ han1202012/ZoomButton_QuickContactBadge 9811208f0da56c76ef00bd067bd00f16ef900917
+_AT_ humanfish/picalc 2e17f7199b339896d19e889f187af19e55782594
 _AT_ han1202012/TabHost_Test f1bb97a9c5bacc41b6275015f0fe8ca66483a267
 _AT_ johngunderman/g_chess b23f5027467c860f8339c4e068ab6b364f96be83
 _AT_ mdinstuhl/Android_Camera_Demo a1c29301075d4c5042e1d0b87f27515cd9fb700c
@@ -32,4 +33,4 @@ _AT_ ti3r/Android-Custom-View-Example 9daa87d7e1f622d85178637756b2eb147fb785ad
 _AT_ ti3r/AnimationExamples d035367dcd2d3764ba9ea3588eeba0722278762c
 _AT_ ti3r/sports_tablet c8d904972c577c9811f4199f0692b89d32c87940
 _AT_ zackola/britely 4d2af9ad49ae9f7ff47bc54287ca1a9a9872e224
-# ma.bash OEF 
+# ma.bash OEF
